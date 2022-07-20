@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="114.71">
+    <testcase classname="To verifying the login functionality." name="Checking the functionality for valid data." time="41.161">
+        <system-out><![CDATA[Given User is able to open the url "https://unacademy.com/".................passed
+And User click on loginButton...............................................passed
+And user enters the '9392432671'............................................passed
+When user is able to click on LoginButton...................................passed
+Then user will able to get the otp..........................................passed
+And user naviagted to aboutuspage...........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verifying the login functionality." name="Checking the functionality for valid data. 2" time="37.178">
+        <system-out><![CDATA[Given User is able to open the url "https://unacademy.com/".................passed
+And User click on loginButton...............................................passed
+And user enters the '9392432671'............................................passed
+When user is able to click on LoginButton...................................passed
+Then user will able to get the otp..........................................passed
+And user naviagted to aboutuspage...........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To verifying the login functionality." name="Checking abouts is clickable." time="36.073">
+        <system-out><![CDATA[Given User is able to open the url "https://unacademy.com/".................passed
+And User is able to tap on LoginButton......................................passed
+And user type the "9392432671"..............................................passed
+When Tap on LoginButton.....................................................passed
+Then user can receive otp...................................................passed
+And User navigated to next page where he able to see about unacdemy.........passed
+]]></system-out>
+    </testcase>
+</testsuite>
